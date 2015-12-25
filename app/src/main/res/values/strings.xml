@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Performance Fun Lab</string>
+    <string name="sample_activity_label">lab.fun.performance.SAMPLE_CODE</string>
+</resources>
